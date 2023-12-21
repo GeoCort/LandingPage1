@@ -46,7 +46,7 @@ header{
     color:inherit;
 }
 .hero-img{
-    min-width: 400px;
+    min-width: 500px;
     max-height:200px;
     height: 200px;;
     display:flex;
