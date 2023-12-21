@@ -1,0 +1,50 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+}
+
+.darkbluebg{
+    background-color: #1F2937;
+    color: #F9FAF8;
+}
+header{
+    font-size: 18px;
+    /* color:E5E7EB; */
+}
+.nav{
+    display:flex;
+    justify-content: space-between;
+}
+.logo{
+    font-size: 24px;
+}
+/* Hero Section */
+.hero{
+    display:flex;
+    justify-content: space-between;
+    gap:10rem;
+    font-size:18px;
+}
+.info{
+    font-size:48px;
+}
+.hero-btn{
+    background-color: blue;
+    border:none;
+    border-radius:3px;
+    padding:.3rem 1.5rem .3rem 1.5rem;
+    color:inherit;
+}
+.hero-img{
+    min-width: 100px;
+    min-height: 100px;
+    border:2px solid green;
+}
+
+/* Blockquote */
+.quote{
+    background-color: #E5E7EB;
+    font-style:italic;
+    font-size: 36px;
+    color:#1F2937;
+}
