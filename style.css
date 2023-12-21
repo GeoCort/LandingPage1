@@ -75,6 +75,7 @@ header{
     display:flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     gap:1rem;
 }
 .under-img{
@@ -98,7 +99,7 @@ header{
 .action-c{
     display:flex;
     justify-content: space-between;
-    padding:4rem;
+    padding:5rem;
     background-color: #3882F6;
     border-radius: 5px;
     color:#F9FAF8;
